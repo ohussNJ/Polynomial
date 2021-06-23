@@ -2,8 +2,6 @@ package poly;
 
 /**
  * This class implements a term of a polynomial.
- * 
- * @author runb-cs112
  *
  */
 public class Term {
