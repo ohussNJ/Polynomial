@@ -6,7 +6,6 @@ import java.util.Scanner;
 /**
  * This class implements evaluate, add and multiply for polynomials.
  * 
- * @author runb-cs112
  *
  */
 public class Polynomial {
@@ -133,9 +132,7 @@ public class Polynomial {
 	   
 		return f;
 
-		/** COMPLETE THIS METHOD **/
-		// FOLLOWING LINE IS A PLACEHOLDER TO MAKE THIS METHOD COMPILE
-		// CHANGE IT AS NEEDED FOR YOUR IMPLEMENTATION
+
 	}
 	
 	/**
@@ -170,9 +167,6 @@ public class Polynomial {
 			e=null;
 		}
 		return a;
-		/** COMPLETE THIS METHOD **/
-		// FOLLOWING LINE IS A PLACEHOLDER TO MAKE THIS METHOD COMPILE
-		// CHANGE IT AS NEEDED FOR YOUR IMPLEMENTATION
 		
 	}
 		
@@ -191,9 +185,7 @@ public class Polynomial {
 			}
 		}
 		return xx;
-		/** COMPLETE THIS METHOD **/
-		// FOLLOWING LINE IS A PLACEHOLDER TO MAKE THIS METHOD COMPILE
-		// CHANGE IT AS NEEDED FOR YOUR IMPLEMENTATION
+
 		
 	}
 	
